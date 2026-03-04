@@ -1,6 +1,4 @@
 {
-    "buildCommand": "echo 'Skipping build, using local dist'",
-    "outputDirectory": "dist",
     "rewrites": [
         {
             "source": "/(.*)",
