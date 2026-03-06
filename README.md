@@ -226,7 +226,7 @@ GitHub
 https://github.com/Tamilnavy
 
 LinkedIn
-https://www.linkedin.com/
+www.linkedin.com/in/tamilarasan-j-
 
 ---
 
