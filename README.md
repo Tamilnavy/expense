@@ -83,26 +83,6 @@ MongoDB Atlas Database
 
 ---
 
-# 📸 Screenshots
-
-## 🔐 Login Page
-
-![Login](screenshots/login.png)
-
-## 📊 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-## 💵 Income Page
-
-![Income](screenshots/income.png)
-
-## 💳 Expense Page
-
-![Expense](screenshots/expense.png)
-
----
-
 # 📂 Project Structure
 
 ```
