@@ -1,12 +1,5 @@
 # 💰 Expense Tracker – MERN Stack
 
-![React](https://img.shields.io/badge/Frontend-React.js-blue)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![Express](https://img.shields.io/badge/API-Express.js-grey)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB%20Atlas-brightgreen)
-![JWT](https://img.shields.io/badge/Auth-JWT-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
 A **Full Stack Expense Tracker Web Application** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
 This application allows users to **track income, manage expenses, view financial summaries, and analyze transactions through charts**.
 
